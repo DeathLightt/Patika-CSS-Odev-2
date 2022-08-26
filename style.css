@@ -1,0 +1,43 @@
+.box{ 
+    padding: 1%;
+    margin: 0 auto;
+}
+.bg-white{
+    background-color: white;
+}
+.btn{
+    background-color: rgba(243, 243, 243, 0.836);
+    width: 80%;
+    margin: 0 auto;
+}
+body{
+    text-align: center;
+}
+
+.left-box{
+    background-color: rgb(165, 236, 212);
+    padding: 17px;
+    width: 35%;
+    margin-top: 2px;
+}
+
+.center-box{
+    background-color: rgb(128, 240, 203);
+    padding: 8px;
+    width: 30%;
+    margin-left: 2px;
+    margin-top: 2px;
+}
+
+.right-box{
+    background-color: rgb(39, 231, 215);
+    padding: 4px;
+    width: 35%;
+    margin-left: 2px;
+    margin-top: 2px;
+}
+.card{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
